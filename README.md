@@ -1,0 +1,1 @@
+Nesse projeto, desenvolvemos o clone da aplicação modelo do flutter, alternando alguns componentes de design. O app rodará em multiplataforma.
